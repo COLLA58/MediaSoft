@@ -1,6 +1,9 @@
 # MediaSoft
 Выполнил Ключников Владислав ИСдо-34
 
+# Задание №3
+https://www.figma.com/design/rtLIqTF6JVBbZCA8I6MvGP/Figma-basics?node-id=1669-162202&p=f&t=sqDgnGiVmG8UBLac-0
+
 # Задание №5
 1.Вывести покупателей с количеством осуществленных покупок:
 SELECT 
